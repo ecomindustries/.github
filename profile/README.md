@@ -1,7 +1,3 @@
-Here’s a revised **Capabilities Statement** incorporating your logo and icon using Markdown for deployment on your GitHub page:
-
----
-
 # ![ ecom industries Logo](https://nativestack-assets.s3.us-east-1.amazonaws.com/ecom-industries/logos/ecom1200x630.png)
 
 **Your Trusted Partner for AI, Machine Learning, and Software Engineering Excellence**
@@ -83,9 +79,24 @@ ecom industries specializes in delivering advanced **🌐 software solutions** w
 
 -   **📌 Company Name**: ecom industries
 -   **🌐 Website**: [https://ecomindustries.io](https://ecomindustries.io)
--   **✉️ Contact**: [info@ecomindustries.io](mailto:info@ecomindustries.io)
+-   **✉️ Contact**: [engineering@ecomindustries.io](mailto:engineering@ecomindustries.io)
 -   **🏢 Type**: Private Software Engineering Firm
--   **✅ Certifications**: AWS Partner, HIPAA-Compliant Solutions
+-   **✅ Certifications**: AWS Professionals, ITAR, SOC2, & HIPAA-Compliant Solutions
+
+---
+
+### **📅 Schedule a Meeting**
+
+Want to discuss your project or learn more about how we can help?  
+Click below to schedule a meeting at your convenience:  
+**[📅 Schedule a Meeting](https://consult.ecomindustries.io)**
+
+---
+
+### **📄 Create a Proposal**
+
+Use our **intuitive estimating software** to create a custom proposal tailored to your project’s needs:  
+**[🛠️ Create Your Proposal](https://ecomindustries.io/#app_development_cost_calculator)**
 
 ---
 
@@ -96,13 +107,3 @@ At ** ecom industries**, we combine **precision**, **innovation**, and **custome
 ![ecom Icon](https://nativestack-assets.s3.us-east-1.amazonaws.com/ecom-industries/logos/eci-icon-blue.png)
 
 **📞 Contact us today** to transform your vision into scalable, high-impact software solutions!
-
----
-
-### **How to Use This Markdown**
-
-1. Copy the Markdown text above.
-2. Paste it into the `.md` file for your GitHub page.
-3. Commit the changes and push them to your GitHub repository.
-
-The images will automatically render, and the icons will enhance engagement.
