@@ -102,7 +102,7 @@ Use our **intuitive estimating software** to create a custom proposal tailored t
 
 ### **💡 Let’s Build Together**
 
-At ** ecom industries**, we combine **precision**, **innovation**, and **customer-centric solutions** to help businesses unlock the power of AI/ML. From **cutting-edge technologies** to **seamless integration**, we ensure your company stays ahead in the rapidly evolving digital landscape.
+At **ecom industries**, we combine **precision**, **innovation**, and **customer-centric solutions** to help businesses unlock the power of AI/ML. From **cutting-edge technologies** to **seamless integration**, we ensure your company stays ahead in the rapidly evolving digital landscape.
 
 ![ecom Icon](https://nativestack-assets.s3.us-east-1.amazonaws.com/ecom-industries/logos/eci-icon-blue.png)
 
