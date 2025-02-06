@@ -6,6 +6,8 @@ ecom industries specializes in delivering advanced **🌐 software solutions** w
 
 🔎 [Discover more by reading our Company Overview!](https://github.com/ecomindustries/.github/blob/master/profile/COMPANY_OVERVIEW.md)
 
+🗽[Read our Federal Capability Statement](https://github.com/ecomindustries/.github/blob/master/profile/FED_CAPABILITY.md)
+
 ---
 
 ### **🎯 Core Competencies**

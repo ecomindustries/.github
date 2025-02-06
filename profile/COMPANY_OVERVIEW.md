@@ -8,6 +8,8 @@ Leveraging advanced **cloud technologies** and **serverless architectures**, we 
 -   **🤖 Recommendation Engines** for personalized user experiences.
 -   **🏭 AI-Powered Solutions** tailored for CNC machining, healthcare optimization, and programmatic advertising.
 
+🗽[Read our Federal Capability Statement](https://github.com/ecomindustries/.github/blob/master/profile/FED_CAPABILITY.md)
+
 ---
 
 ## 🎯 Core Services
