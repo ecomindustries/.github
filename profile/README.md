@@ -4,6 +4,8 @@
 
 ecom industries specializes in delivering advanced **🌐 software solutions** with a focus on **🤖 machine learning (ML)**, **💡 artificial intelligence (AI)**, and **⚙️ DevOps automation**. We empower businesses by building **secure, cost-effective, and real-time AI/ML pipelines**, tailored to industries like **🏭 manufacturing**, **🏥 healthcare**, and **📊 programmatic advertising**.
 
+🔎 [Discover more by reading our Company Overview!](https://github.com/ecomindustries/.github/blob/master/profile/COMPANY_OVERVIEW.md)
+
 ---
 
 ### **🎯 Core Competencies**
