@@ -75,8 +75,11 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 ## **PAST PERFORMANCE**
 
 🔹 **Healthcare Organizations:** Development of **automated ICD-10 coding** and **AI-powered EMR transcription** solutions for HIPAA-compliant AI products for medical transcription and revenue cycle management, significantly enhancing billing accuracy and clinical workflow integration.
+
 🔹 **Manufacturing & CNC Industries:** AI-powered **toolpath recommendations** and Generative NC Code predictions that we successfully delivered real-time recommendation engines that optimize CNC machining parameters, improving operational efficiency and reducing downtime.
+
 🔹 **Data Analytics:** Implemented end-to-end ML pipelines that reduced time-to-market for predictive analytics solutions by 50%, enabling rapid, data-driven decision-making.
+
 🔹 **Programmatic Advertising:** Developed white-label, AI-driven platforms for user segmentation and targeted advertising, driving measurable improvements in campaign performance and ROI.
 
 ---
