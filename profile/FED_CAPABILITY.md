@@ -8,7 +8,7 @@ _ECOM INDUSTRIES – Technology-Driven Software Engineering & AI/ML Solutions_
 ECOM INDUSTRIES is a technology-driven software engineering firm specializing in advanced machine learning (ML), artificial intelligence (AI), and DevOps solutions. We design and implement low-latency, scalable, and cost-effective systems tailored for enterprise applications, with a strong focus on real-time analytics, predictive modeling, and automation. Our expertise spans a variety of industries, including manufacturing, healthcare, retail, and programmatic advertising.
 
 📍 **Headquarters:** 4635 SW 10 St., Miami, FL 33134  
-📧 **Contact Email:** mollysmith@ecomindustries.io  
+📧 **Contact Email:** sales@ecomindustries.io  
 📞 **Phone Number:** 305.306.8617  
 🌐 **Website:** [https://ecomindustries.io](https://ecomindustries.io)  
 🆔 **DUNS Number:** 037767728  
@@ -40,7 +40,7 @@ Implementation of serverless architectures utilizing AWS services (Athena, Lambd
 Development of HIPAA-compliant systems for automated medical transcription, ICD-10 code optimization, and EMR integration. We build Tools to enhance revenue cycle management and streamline clinical data processing.
 
 -   **ICD-10 medical coding automation** to improve revenue cycle management
--   AI-driven **transcription and EMR integration**
+-   AI-driven **transcription and EHR integration**
 -   **HIPAA-compliant cloud infrastructure**
 
 ### 🔧 **IoT & Embedded Systems**
@@ -135,4 +135,4 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 
 ---
 
-_Ecom Industries is committed to delivering innovative, reliable, and secure technology solutions that empower federal agencies and commercial clients alike. We look forward to the opportunity to partner with you and drive digital transformation for a smarter, more efficient future._
+_ecom industries is committed to delivering innovative, reliable, and secure technology solutions that empower federal agencies and commercial clients alike. We look forward to the opportunity to partner with you and drive digital transformation for a smarter, more efficient future._
