@@ -98,15 +98,24 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 
 ## **PSC CODES**
 
-📌 **D308** – IT & Telecom Programming  
-📌 **D310** – IT & Telecom Cybersecurity & Data Backup  
-📌 **D399** – IT & Telecom Other Services  
-📌 **R425** – Engineering & Technical Support  
-📌 **AJ51** – R&D – AI/ML
+📌 **7A20** – IT AND TELECOM - APPLICATION DEVELOPMENT SOFTWARE
+📌 **7B20** – IT AND TELECOM - HIGH PERFORMANCE COMPUTE
+📌 **7B22** – IT AND TELECOM - COMPUTE: SERVERS
+📌 **7H20** – IT AND TELECOM - PLATFORM PRODUCTS
+📌 **7J20** – IT AND TELECOM - SECURITY AND COMPLIANCE PRODUCTS
+📌 **DA01** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT  
+📌 **DA10** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SaaS  
+📌 **DB10** – IT AND TELECOM - COMPUTE AS A SERVICE
+📌 **DH01** – IT AND TELECOM - PLATFORM SUPPORT SERVICES (Labor)
+📌 **DH10** – IT AND TELECOM - PLATFORM SUPPORT SERVICES
+📌 **DJ10** – IT AND TELECOM - SECURITY AND COMPLIANCE AS A SERVICE
+📌 **DK01** – IT AND TELECOM - STORAGE SUPPORT SERVICES (Labor)
+📌 **DK10** – IT AND TELECOM - STORAGE AS A SERVICE
+📌 **R425** – Engineering & Technical Support
 
 ---
 
-## **GOVERNMENT CONTRACTING INFORMATION**
+## **GOVERNMENT CONTRACTING IIT AND TELECOM - PLATFORM SUPPORT SERVICESNFORMATION**
 
 -   **SAM Registration:** ✅ Active
 -   **SBA Profile:** ✅ Updated
