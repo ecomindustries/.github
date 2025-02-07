@@ -91,7 +91,8 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 
 ## **NAICS CODES**
 
-📌 **541511** – Custom Computer Programming Services  
+📌 **541511** – Custom Computer Programming Services
+
 📌 **541512** – Computer Systems Design Services
 
 ---
@@ -99,17 +100,29 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 ## **PSC CODES**
 
 📌 **7A20** – IT AND TELECOM - APPLICATION DEVELOPMENT SOFTWARE
+
 📌 **7B20** – IT AND TELECOM - HIGH PERFORMANCE COMPUTE
+
 📌 **7B22** – IT AND TELECOM - COMPUTE: SERVERS
+
 📌 **7H20** – IT AND TELECOM - PLATFORM PRODUCTS
+
 📌 **7J20** – IT AND TELECOM - SECURITY AND COMPLIANCE PRODUCTS
-📌 **DA01** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT  
-📌 **DA10** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SaaS  
+
+📌 **DA01** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT
+
+📌 **DA10** – IT AND TELECOM - BUSINESS APPLICATION/APPLICATION DEVELOPMENT SaaS
+
 📌 **DB10** – IT AND TELECOM - COMPUTE AS A SERVICE
+
 📌 **DH01** – IT AND TELECOM - PLATFORM SUPPORT SERVICES (Labor)
+
 📌 **DH10** – IT AND TELECOM - PLATFORM SUPPORT SERVICES
+
 📌 **DJ10** – IT AND TELECOM - SECURITY AND COMPLIANCE AS A SERVICE
+
 📌 **DK01** – IT AND TELECOM - STORAGE SUPPORT SERVICES (Labor)
+
 📌 **DK10** – IT AND TELECOM - STORAGE AS A SERVICE
 📌 **R425** – Engineering & Technical Support
 
