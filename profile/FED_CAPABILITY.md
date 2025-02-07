@@ -124,6 +124,7 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 📌 **DK01** – IT AND TELECOM - STORAGE SUPPORT SERVICES (Labor)
 
 📌 **DK10** – IT AND TELECOM - STORAGE AS A SERVICE
+
 📌 **R425** – Engineering & Technical Support
 
 ---
