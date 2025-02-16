@@ -129,7 +129,7 @@ Real-time recommendation systems for CNC machining optimization and targeted pro
 
 ---
 
-## **GOVERNMENT CONTRACTING IIT AND TELECOM - PLATFORM SUPPORT SERVICESNFORMATION**
+## **GOVERNMENT CONTRACTING IT AND TELECOM - PLATFORM SUPPORT SERVICES INFORMATION**
 
 -   **SAM Registration:** ✅ Active
 -   **SBA Profile:** ✅ Updated
