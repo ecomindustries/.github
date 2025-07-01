@@ -14,6 +14,7 @@ ECOM INDUSTRIES is a technology-driven software engineering firm specializing in
 🆔 **DUNS Number:** 037767728  
 🆔 **CAGE Code:** 0QLP1  
 🆔 **UEI (Unique Entity ID):** D939Q2E7N194
+**SBA Profile:** [sba.gov/search/ecomindustries](https://pronet.sba.gov/search/dsp_profile.cfm?RequestTimeout=60&SAM_UEI=D939Q2E7N194)
 
 ---
 
